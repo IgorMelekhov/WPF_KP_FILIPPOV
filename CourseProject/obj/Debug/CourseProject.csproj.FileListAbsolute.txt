@@ -1,0 +1,15 @@
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\bin\Debug\CourseProject.exe.config
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\bin\Debug\CourseProject.exe
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\bin\Debug\CourseProject.pdb
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\MainWindow.g.cs
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\App.g.cs
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\MainWindow.baml
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject.g.resources
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject.exe
+D:\Users\1213-4\Documents\3-ИСП\Дисциплина\Фамилия\Курсовой проект\CourseProject\obj\Debug\CourseProject.pdb
